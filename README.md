@@ -1,4 +1,4 @@
-# Super Mario Bros
+# Game and Watch
 
 An animated Super Mario Bros watchface for Garmin's wearable lineup.
 8-bit gaming nostalgia! Animates whenever you look at your watch.
